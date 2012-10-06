@@ -49,7 +49,7 @@ __END__
 
 =head1 NAME
 
-Mojolicious::MultiMarkdownRenderer - Convert Markdown and MultiMarkdown syntax to (X)HTML
+Mojolicious::MultiMarkdownRenderer - Markdown and MultiMarkdown templates for Mojolicious
 
 =head1 SYNOPSIS
 
